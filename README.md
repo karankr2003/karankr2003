@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Miciroservice and AWS.**
 
-- Hands-on Experience with **React.js, Oracle SQL & PL/SQL, Python and AI.**
+- Hands-on Experience with **Java, Oracle SQL & PL/SQL, Python and AI.**
 
 - 📫 How to reach me **karankumar496kk@gmail.com**
 
