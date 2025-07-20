@@ -11,7 +11,7 @@
 
 - 🔭 Software Engineer **@ NUO Financial Technologies. Bengaluru, Karnataka**
 
-- 🌱 I’m currently learning **Spring Boot, Miciroservice and AWS.**
+- 🌱 I’m currently learning **Spring Boot, React and AWS.**
 
 - Hands-on Experience with **Java, Oracle SQL & PL/SQL, Python and AI.**
 
