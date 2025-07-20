@@ -11,9 +11,9 @@
 
 - 🔭 Software Engineer **@ NUO Financial Technologies. Bengaluru, Karnataka**
 
-- 🌱 I’m currently learning **Spring Boot, React and AWS.**
+- 🌱 I’m currently learning **Spring Boot, Angular and AWS.**
 
-- Hands-on Experience with **Java, Oracle SQL & PL/SQL, Python and AI.**
+- Hands-on Experience with **Java, React, Oracle SQL & PL/SQL, Python and AI.**
 
 - 📫 How to reach me **karankumar496kk@gmail.com**
 
