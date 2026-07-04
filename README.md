@@ -11,9 +11,9 @@
 
 - 🔭 Software Engineer **@ NUO Financial Technologies. Bengaluru, Karnataka**
 
-- 🌱 I’m currently learning **.NET, Django and AWS.**
+- 🌱 I’m currently exploring **.NET, LanhChain/LangGraph and AWS.**
 
-- Hands-on Experience with **Python, FastAPI, React, Next.js,Oracle SQL & PL/SQL and AI.**
+- Hands-on Experience with **Python, FastAPI, React, RAG, Next.js,Oracle SQL & PL/SQL and AI.**
 
 - 📫 How to reach me **karankumar496kk@gmail.com**
 
