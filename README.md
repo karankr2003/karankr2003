@@ -11,7 +11,7 @@
 
 - 🔭 Software Engineer **@ NUO Financial Technologies. Bengaluru, Karnataka**
 
-- 🌱 I’m currently exploring **.NET, LanhChain/LangGraph and AWS.**
+- 🌱 I’m currently exploring **.NET, LangChain/LangGraph and Azue.**
 
 - Hands-on Experience with **Python, FastAPI, React, RAG, Next.js,Oracle SQL & PL/SQL and AI.**
 
