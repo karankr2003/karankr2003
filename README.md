@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karankr2003" alt="karankr2003" /></a> </p>
 
-- 🔭 Full-Stack & AI Software Engineer (Immediate Joiner)
+- 🔭 Full-Stack & AI Software Engineer
 
 - 🌱 I’m currently exploring **LangChain/LangGraph, Agentic AI, and Vector Databases.**
 
